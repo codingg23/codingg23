@@ -14,23 +14,24 @@
     <td width="70%" valign="top">
       <h1>Hey 🧑🏽‍💻, I'm Aan 😎</h1>
       <h3>I am currently a computer science student at UNSW in Sydney and I am passionate about AI and ML.</h3>
-      
-      <ul>
-        <li>🌱 I’m currently learning <strong>Data structures and algorithms</strong></li>
-        <li>⚡ Fun fact: <strong>I'm all about non-fiction, my bookshelf is filled with real world magic from quantum physics to groundbreaking tech innovations. I also never miss a science documentary; they’re my late-night training montage for dreaming big in robotics and tech.</strong></li>
-      </ul>
-    </td>
-    
-    <!-- RIGHT COLUMN: Profile Picture -->
-    <td width="30%" align="center" valign="middle">
-      <!-- Replace this URL with your actual profile pic -->
-      <img 
-        src="https://i.pinimg.com/736x/c6/3a/5a/c63a5a2a6186239e2a3aa170aac5de55.jpg" 
-        alt="Aan Profile Picture" 
-        width="150" 
-        style="border-radius: 50%;"
-      />
-    </td>
+
+<ul>
+    <li>🌱 I’m currently learning <strong>Data structures and algorithms</strong></li>
+    <li>⚡ Fun fact: <strong>I'm all about non-fiction, my bookshelf is filled with real world magic from quantum physics to groundbreaking tech innovations. I also never miss a science documentary; they’re my late-night training montage for dreaming big in robotics and tech.</strong></li>
+  </ul>
+</td>
+
+<!-- RIGHT COLUMN: Profile Picture -->
+<td width="30%" align="center" valign="middle">
+  <!-- Replace this URL with your actual profile pic -->
+  <img 
+    src="https://i.pinimg.com/736x/c6/3a/5a/c63a5a2a6186239e2a3aa170aac5de55.jpg" 
+    alt="Aan Profile Picture" 
+    width="150" 
+    style="border-radius: 50%;"
+  />
+</td>
+
   </tr>
 </table>
 
