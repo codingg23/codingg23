@@ -1,12 +1,21 @@
 
-# Hey there, I'm Aan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 align="center">Hi 👋, I'm Aan</h1>
+<h3 align="center">I am currently a computer science student at UNSW in Sydney and I am passionate about AI and ML.</h3>
 
-![Aan Profile Picture](https://preview.redd.it/why-do-people-say-rock-lees-character-was-wasted-when-he-v0-fgxkgvdjv9ga1.jpg?width=1080&crop=smart&auto=webp&s=1cb88d3d7c0077f45279b077811a40550529e2d8)
+- 🌱 I’m currently learning **Data structures and algorithms**
 
+- ⚡ Fun fact **I'm all about non-fiction, my bookshelf is filled with real world magic from quantum physics to groundbreaking tech innovations. I also never miss a science documentary; they’re my late night training montage for dreaming big in robotics and tech.**
 
-I'm a computer science student at unsw and i am passionate about AI and ML. 
-- 🌱 I’m currently learning data structures and algorithms.
-- 💬 I am always learning and trying to expand my knowledge and technical skills
-- ⚡ Fun fact: I'm all about non-fiction—my bookshelf is filled with real world magic from quantum physics to groundbreaking tech innovations.
-I also never miss a science documentary; they’re my late night training montage for dreaming big in robotics and tech.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aan-mehta-233445345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aan-mehta-233445345" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingg23&show_icons=true&locale=en&layout=compact" alt="codingg23" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingg23&show_icons=true&locale=en" alt="codingg23" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingg23&" alt="codingg23" /></p>
