@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Aan</h1>
+<h1 align="center">Hey 🧑🏽‍💻, I'm Aan 😎</h1>
 <h3 align="center">I am currently a computer science student at UNSW in Sydney and I am passionate about AI and ML.</h3>
 
 - 🌱 I’m currently learning **Data structures and algorithms**
