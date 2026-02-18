@@ -1,11 +1,4 @@
-<!-- BANNER SECTION (replace the src with your own banner image or keep this placeholder) -->
-<p align="center">
-  <img 
-    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpersoonibrand.ee%2Fen%2Fbillionaire-entrepreneur-mark-cuban-business-quotes%2F&psig=AOvVaw1TkPfSGiOfNg6POKSyyoIO&ust=1741411167363000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjhvqic94sDFQAAAAAdAAAAABAE" 
-    alt="Banner with Quote" 
-    width="100%" 
-  />
-</p>
+
 
 <!-- TWO-COLUMN LAYOUT -->
 <table width="100%">
@@ -23,7 +16,7 @@
 <td width="30%" align="center" valign="middle">
   <!-- Replace this URL with your actual profile pic -->
   <img 
-    src="https://i.pinimg.com/736x/c6/3a/5a/c63a5a2a6186239e2a3aa170aac5de55.jpg" 
+    src="https://au.pinterest.com/pin/23573598047681741/" 
     alt="Aan Profile Picture" 
     width="150" 
     style="border-radius: 50%;"
