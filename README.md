@@ -16,7 +16,7 @@
 <td width="30%" align="center" valign="middle">
   <!-- Replace this URL with your actual profile pic -->
   <img 
-    src="https://au.pinterest.com/pin/23573598047681741/" 
+    src="https://i.pinimg.com/736x/79/37/d9/7937d92d703baf478878b8f8c163f626.jpg" 
     alt="Aan Profile Picture" 
     width="150" 
     style="border-radius: 50%;"
