@@ -8,7 +8,7 @@
       <h1>Hey!</h1>
 
 <ul>
-    <li>🌱 Diving into ML agents that predict chaos in physical worlds | Time-series forecasts, delayed RL rewards, multi-agent coordination | PyTorch + Ray on noisy data |</strong></li>
+    <li>🤖 Diving into ML agents that predict chaos in physical worlds | Time-series forecasts, delayed RL rewards, multi-agent coordination | PyTorch + Ray on noisy data |</strong></li>
   </ul>
 </td>
 
