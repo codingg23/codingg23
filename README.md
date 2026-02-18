@@ -12,12 +12,10 @@
   <tr>
     <!-- LEFT COLUMN: Text -->
     <td width="70%" valign="top">
-      <h1>Hey 🧑🏽‍💻, I'm Aan 😎</h1>
-      <h3>I am currently a computer science student at UNSW in Sydney and I am passionate about AI and ML.</h3>
+      <h1>Hey!</h1>
 
 <ul>
-    <li>🌱 I’m currently learning <strong>Data structures and algorithms</strong></li>
-    <li>⚡ Fun fact: <strong>I'm all about non-fiction, my bookshelf is filled with real world magic from quantum physics to groundbreaking tech innovations. I also never miss a science documentary; they’re my late-night training montage for dreaming big in robotics and tech.</strong></li>
+    <li>🌱 Diving into ML agents that predict chaos in physical worlds | Time-series forecasts, delayed RL rewards, multi-agent coordination | PyTorch + Ray on noisy data |</strong></li>
   </ul>
 </td>
 
@@ -35,19 +33,6 @@
   </tr>
 </table>
 
-<!-- CONNECT WITH ME -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/aan-mehta-233445345" target="_blank">
-    <img 
-      align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="aan-mehta-233445345" 
-      height="30" 
-      width="40" 
-    />
-  </a>
-</p>
 
 <!-- LANGUAGES AND TOOLS -->
 <h3 align="left">Languages and Tools:</h3>
