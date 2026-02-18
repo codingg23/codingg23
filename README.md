@@ -16,7 +16,7 @@
 <td width="30%" align="center" valign="middle">
   <!-- Replace this URL with your actual profile pic -->
   <img 
-    src="https://i.pinimg.com/736x/79/37/d9/7937d92d703baf478878b8f8c163f626.jpg" 
+    src="https://i.pinimg.com/1200x/c5/dd/c4/c5ddc4452ac52cad34a97439d220ed94.jpg" 
     alt="Aan Profile Picture" 
     width="150" 
     style="border-radius: 50%;"
